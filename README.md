@@ -110,5 +110,3 @@ make coverage-view
 ```
 
 ---
-
-> 📌 Created with ❤️ by Ria Agarwal
